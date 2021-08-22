@@ -1,17 +1,16 @@
-🚧 UNDER HEAVY CONSTRCTION ⸻ 
-CHECK BACK SOON! 🚧
 
-<!--
-**mdaijean/mdaijean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏽‍🦱 I: ABT.  ━ GEN. INFO ❣️ 
+♡ Name: Ameenah D. Zook. 
+Age + DOB: 22yrs + Dec. 9th, 98'. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+## 💻 II: MISC. ━ TECH. INFO ❣️ 
+
+## 💌 III: MISC. ━ CONT. INFO ❣️ 
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameenah-zook-73b686218/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/westindiedai)
+
+  
