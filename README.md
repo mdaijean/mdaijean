@@ -19,7 +19,7 @@
 
 
 ![Meenah Dai'Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdaijean&show_icons=true&title_color=5C4033&icon_color=5C4033&text_color=5C4033&bg_color=F8C8DC)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaijean&layout=compact&theme=midnight-purple&hide_border=true)
+
 
 ## 💌 III: MISC. ━ CONT. INFO❣️ 
 [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meenahdaijean@gmail.com)
