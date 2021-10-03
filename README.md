@@ -17,7 +17,7 @@
 ![c++](https://img.shields.io/badge/-C++-F8C8DC?style=flat&logo=c&logoColor=5C4033)
 ![nodejs](https://img.shields.io/badge/-Node.JS-F8C8DC?style=flat&logo=node.JS&logoColor=5C4033)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaijean&layout=compact&theme=midnight-purple&hide_border=true&title_color=5C4033&text_color=5C4033&bg_color=F8C8DC)
 ![Meenah Dai'Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdaijean&show_icons=true&title_color=5C4033&icon_color=5C4033&text_color=5C4033&bg_color=F8C8DC)
 
 
