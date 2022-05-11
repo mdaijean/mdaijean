@@ -4,10 +4,9 @@
 
 ---
 
-
 ## 💻 II: MISC. ━ TECH. INFO❣️ 
 
-<h1<LANGUAGES I KNOW</h1> ![javascript](https://img.shields.io/badge/-JavaScript-F8C8DC?style=flat&logo=javascript&logoColor=5C4033) 
+<h>LANGUAGES I KNOW:</h1> ![javascript](https://img.shields.io/badge/-JavaScript-F8C8DC?style=flat&logo=javascript&logoColor=5C4033) 
 ![html](https://img.shields.io/badge/-HTML5-F8C8DC?style=flat&logo=HTML5&logoColor=5C4033)
 ![css3](https://img.shields.io/badge/-CSS3-F8C8DC?style=flat&logo=CSS3&logoColor=5C4033)
 
