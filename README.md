@@ -2,14 +2,17 @@
 
 🚧 UNDER CONSTRUCTION — CHECK BACK SOON! 🚧 
 
+---
+
 
 ## 💻 II: MISC. ━ TECH. INFO❣️ 
-♡ Languages I have a grasp on: ![javascript](https://img.shields.io/badge/-JavaScript-F8C8DC?style=flat&logo=javascript&logoColor=5C4033) 
+
+<h1<LANGUAGES I KNOW</h1> ![javascript](https://img.shields.io/badge/-JavaScript-F8C8DC?style=flat&logo=javascript&logoColor=5C4033) 
 ![html](https://img.shields.io/badge/-HTML5-F8C8DC?style=flat&logo=HTML5&logoColor=5C4033)
 ![css3](https://img.shields.io/badge/-CSS3-F8C8DC?style=flat&logo=CSS3&logoColor=5C4033)
 
 
- ♡ Languages I want to learn: 
+ <h2>LANGUAGES I WANT TO LEARN:</h2>
 ![ruby](https://img.shields.io/badge/-Ruby-F8C8DC?style=flat&logo=ruby&logoColor=5C4033)
 ![react](https://img.shields.io/badge/-React-F8C8DC?style=flat&logo=react&logoColor=5C4033)
 ![bootstrap](https://img.shields.io/badge/-BootStrap-F8C8DC?style=flat&logo=BootStrap&logoColor=5C4033)
@@ -17,9 +20,16 @@
 ![c++](https://img.shields.io/badge/-C++-F8C8DC?style=flat&logo=c&logoColor=5C4033)
 ![nodejs](https://img.shields.io/badge/-Node.JS-F8C8DC?style=flat&logo=node.JS&logoColor=5C4033)
 
+---
+
+## III: 📈 MISC.  ━ STAT. INFO❣️ 
+
+<h2>MY STATS:</h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaijean&layout=compact&theme=midnight-purple&hide_border=true&title_color=5C4033&text_color=5C4033&bg_color=F8C8DC)
 ![Meenah Dai'Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdaijean&show_icons=true&title_color=5C4033&icon_color=5C4033&text_color=5C4033&bg_color=F8C8DC)
 
+---
 
 ## 💌 III: MISC. ━ CONT. INFO❣️ 
 [![gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meenahdaijean@gmail.com)
