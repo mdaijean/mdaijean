@@ -2,11 +2,10 @@
 
 🚧 UNDER CONSTRUCTION — CHECK BACK SOON! 🚧 
 
----
 
 ## 💻 II: MISC. ━ TECH. INFO❣️ 
 
-<h>LANGUAGES I KNOW:</h1> ![javascript](https://img.shields.io/badge/-JavaScript-F8C8DC?style=flat&logo=javascript&logoColor=5C4033) 
+LANGUAGES I KNOW: ![javascript](https://img.shields.io/badge/-JavaScript-F8C8DC?style=flat&logo=javascript&logoColor=5C4033) 
 ![html](https://img.shields.io/badge/-HTML5-F8C8DC?style=flat&logo=HTML5&logoColor=5C4033)
 ![css3](https://img.shields.io/badge/-CSS3-F8C8DC?style=flat&logo=CSS3&logoColor=5C4033)
 
@@ -19,11 +18,10 @@ LANGUAGES I WANT TO LEARN:
 ![c++](https://img.shields.io/badge/-C++-F8C8DC?style=flat&logo=c&logoColor=5C4033)
 ![nodejs](https://img.shields.io/badge/-Node.JS-F8C8DC?style=flat&logo=node.JS&logoColor=5C4033)
 
----
 
 ## III: 📈 MISC.  ━ STAT. INFO❣️ 
 
-<h2>MY STATS:</h2>
+MY STATS:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaijean&layout=compact&theme=midnight-purple&hide_border=true&title_color=5C4033&text_color=5C4033&bg_color=F8C8DC)
 ![Meenah Dai'Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdaijean&show_icons=true&title_color=5C4033&icon_color=5C4033&text_color=5C4033&bg_color=F8C8DC)
