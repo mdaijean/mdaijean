@@ -11,7 +11,7 @@
 ![css3](https://img.shields.io/badge/-CSS3-F8C8DC?style=flat&logo=CSS3&logoColor=5C4033)
 
 
- <h2>LANGUAGES I WANT TO LEARN:</h2>
+LANGUAGES I WANT TO LEARN:
 ![ruby](https://img.shields.io/badge/-Ruby-F8C8DC?style=flat&logo=ruby&logoColor=5C4033)
 ![react](https://img.shields.io/badge/-React-F8C8DC?style=flat&logo=react&logoColor=5C4033)
 ![bootstrap](https://img.shields.io/badge/-BootStrap-F8C8DC?style=flat&logo=BootStrap&logoColor=5C4033)
