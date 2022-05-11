@@ -22,7 +22,7 @@ LANGUAGES I WANT TO LEARN:
 ## III: 📈 MISC.  ━ STAT. INFO❣️ 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdaijean&layout=compact&theme=midnight-purple&hide_border=true&title_color=5C4033&text_color=5C4033&bg_color=F8C8DC)
-![Meenah Dai'Jean's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdaijean&theme=material-palenight&hide_border=true&title_color=5C4033&text_color=5C4033&bg_color=F8C8DC)](https://git.io/streak-stats)
+![Meenah Dai'Jean's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdaijean&theme=material-palenight&hide_border=true&title_color=5C4033&text_color=5C4033&bg_color=F8C8DC)]
 ![Meenah Dai'Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdaijean&show_icons=true&title_color=5C4033&icon_color=5C4033&text_color=5C4033&bg_color=F8C8DC)
 
 ---
